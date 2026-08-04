@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "device_sony_sm8350-common",
+    "target_path": "device/sony/sm8350-common"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_sony_pdx215",
+    "target_path": "vendor/sony/pdx215",
+    "branch": "lineage-23.2"
+  }
+]

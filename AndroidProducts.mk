@@ -15,4 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pdx215.mk
+    $(LOCAL_DIR)/circle_pdx215.mk
+
+COMMON_LUNCH_CHOICES := \
+    circle_pdx215-userdebug \
+    circle_pdx215-user \
+    circle_pdx215-eng
