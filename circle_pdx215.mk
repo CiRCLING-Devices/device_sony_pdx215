@@ -22,7 +22,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from device.mk
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
-# Inherit some common Cirle stuff.
+# Inherit some common Project CiRCLE stuff.
 $(call inherit-product, vendor/circle/config/common_full_phone.mk)
 
 IS_PHONE := true
@@ -30,7 +30,6 @@ IS_PHONE := true
 # circle specific flags
 
 CIRCLE_MAINTAINER := LukeOnTG
-CIRCLE_BUILDTYPE := UNOFFICIAL
 WITH_GMS := true
 
 # --
