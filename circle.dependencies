@@ -7,5 +7,10 @@
     "repository": "TheMuppets/proprietary_vendor_sony_pdx215",
     "target_path": "vendor/sony/pdx215",
     "branch": "lineage-23.2"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_sony_sm8350-common",
+    "target_path": "vendor/sony/sm8350-common",
+    "branch": "lineage-23.2"
   }
 ]
