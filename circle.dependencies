@@ -9,6 +9,11 @@
     "branch": "lineage-23.2"
   },
   {
+    "repository": "LineageOS/android_hardware_sony",
+    "target_path": "hardware/sony",
+    "branch": "lineage-23.2"
+  },
+  {
     "repository": "TheMuppets/proprietary_vendor_sony_sm8350-common",
     "target_path": "vendor/sony/sm8350-common",
     "branch": "lineage-23.2"
