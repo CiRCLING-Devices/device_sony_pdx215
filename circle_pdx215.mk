@@ -29,6 +29,7 @@ IS_PHONE := true
 
 # circle specific flags
 
+CIRCLE_BUILDTYPE := OFFICIAL
 CIRCLE_MAINTAINER := LukeOnTG
 WITH_GMS := true
 
